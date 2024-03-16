@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mkiers300@caledonian.ac.uk**
 
-- ⚡ Fun fact **I started programming after listening to a podcast that said being a CPA and a programmer means you are a Unicorn!**
+- ⚡ Fun fact **I started programming after listening to a podcast that said being a CPA and a Data Scientist means you are a Unicorn!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
