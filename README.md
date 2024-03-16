@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Pandas**
 
 - 🤝 I’m looking for help with **ML/AI/MySQL/PowerBI**
 
