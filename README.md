@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
+<h1 align="center">Hi 👋, I'm Michael Kiersten</h1>
 <h3 align="center">Using python for open source data management scripting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-datascience-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="python-datascience-analysis" /> </p>
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Pandas**
+- 🌱 I’m currently learning **Pandas on Data Wars!**
 
 - 🤝 I’m looking for help with **ML/AI/MySQL/PowerBI**
 
