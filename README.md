@@ -5,10 +5,9 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Pandas Series and DataFrames on Data Wars!**
+- 🌱 I’m currently learning **Machine Learning with Sci-Kit Learn**
 
-- 🤝 I’m looking for help with **ML/AI/MySQL/PowerBI**
-
+- 🤝 I’m looking for help with **UX**
 - 👨‍💻 All of my projects are available at [https://github.com/python-datascience-analysis](https://github.com/python-datascience-analysis)
 
 - 💬 Ask me about **Python Development**
