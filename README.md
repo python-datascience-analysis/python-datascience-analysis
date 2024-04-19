@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-datascience-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="python-datascience-analysis" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **Machine Learning with Sci-Kit Learn**
+- 🌱 I’m currently learning **Javascript/Bash/Git/Express.js**
 
 - 🤝 I’m looking for help with **UX**
 - 👨‍💻 All of my projects are available at [https://github.com/python-datascience-analysis](https://github.com/python-datascience-analysis)
