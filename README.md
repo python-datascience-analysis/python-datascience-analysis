@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Kiersten</h1>
-<h3 align="center">Using Python for open source data management scripting, rust for systems programming and some node too!</h3>
+<h3 align="center">Using Rust for systems programming and node for server-side programming. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-datascience-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="python-datascience-analysis" /> </p>
 
@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with ****
 - 👨‍💻 All of my projects are available at [https://github.com/python-datascience-analysis](https://github.com/python-datascience-analysis)
 
-- 💬 Ask me about **Python Development**
+- 💬 Ask me about **Python Development and Data Analysis**
 
 - 📫 How to reach me **mkiers300@caledonian.ac.uk**
 
