@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Michael Kiersten</h1>
-<h3 align="center">Using Rust for systems programming and node for server-side programming. </h3>
+<h3 align="center">Using node for server-side programming. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-datascience-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="python-datascience-analysis" /> </p>
 
-- 🔭 I’m currently working on **Node.js & Rust**
+- 🔭 I’m currently working on **Node.js**
 
 - 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with ****
 - 👨‍💻 All of my projects are available at [https://github.com/python-datascience-analysis](https://github.com/python-datascience-analysis)
 
-- 💬 Ask me about **Python Development and Data Analysis**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **mkiers300@caledonian.ac.uk**
 
