@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Analysis**
 
-- 📫 How to reach me **mkiers300@caledonian.ac.uk**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I started programming after listening to a podcast that said being a CPA and a Data Scientist means you are a Unicorn!**
 
