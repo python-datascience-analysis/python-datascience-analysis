@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-datascience-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="python-datascience-analysis" /> </p>
 
-- 🔭 I’m currently working on **Node.js**
+- 🔭 I’m currently working on **Practical Fraud Prevention - (Book)**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python&&SQL**
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking for help with **Telemetry**
 - 👨‍💻 All of my projects are available at [https://github.com/python-datascience-analysis](https://github.com/python-datascience-analysis)
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Pyh ton/Fraud/Data Analysis**
 
 - 📫 How to reach me ****
 
