@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with **Telemetry**
 - 👨‍💻 All of my projects are available at [https://github.com/python-datascience-analysis](https://github.com/python-datascience-analysis)
 
-- 💬 Ask me about **Pyh ton/Fraud/Data Analysis**
+- 💬 Ask me about **Python/Fraud/Data Analysis**
 
 - 📫 How to reach me ****
 
