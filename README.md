@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Kiersten</h1>
-<h3 align="center">Learnig about coding</h3>
+<h3 align="center">Learning about coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-datascience-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="python-datascience-analysis" /> </p>
 
